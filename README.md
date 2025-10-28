@@ -58,7 +58,7 @@ From this project, I learned:
 
 Lakhan R. Mishra
 📧 [lakhanmishra.ai@gmail.com]
-🔗 GitHub Profile
+🔗 [https://github.com/lakhanmishra-ai]
 
 
 
